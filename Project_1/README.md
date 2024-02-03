@@ -14,19 +14,19 @@ Prior studies, including works by Incropera and DeWitt, underscore the importanc
 
 ## Objectives:
 
-**Heat Transfer Model Setup:**
+  - **Heat Transfer Model Setup:**
 
 Utilize SolidWorks Flow Simulation to establish a comprehensive heat transfer model.
 
-**Fluid Subdomains Specification:**
+  - **Fluid Subdomains Specification:**
 
 Demonstrate the specification of fluid subdomains when dealing with multiple fluids in the heat exchanger.
 
-**Performance Evaluation:**
+  - **Performance Evaluation:**
 
 Evaluate thermal performance, temperature distribution, and pressure drops within the simulated heat exchanger under diverse operating conditions.
 
-**Analysis of Heat Transfer Rates:**
+  - **Analysis of Heat Transfer Rates:**
 
 Analyze heat transfer rates and overall efficiency, providing quantifiable insights into the effectiveness of the counter-current two-pipe heat exchanger.
 
